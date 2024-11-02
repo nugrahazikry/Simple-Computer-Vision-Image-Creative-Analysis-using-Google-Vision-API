@@ -4,4 +4,5 @@ Google Vision API is a Google cloud service that enables the use of computer vis
 
 # For more detail
 Check out my Towards Data Science Article:
+
 https://towardsdatascience.com/simple-computer-vision-image-creative-analysis-using-google-vision-api-50cc42737a00
